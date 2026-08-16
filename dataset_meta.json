@@ -1,0 +1,6 @@
+{
+  "source": "Deterministic graph-shaped benchmark fixture; replace with the selected public dataset for final submission.",
+  "node_count": 12500,
+  "relationship_count": 100000,
+  "load_method": "adapter-specific"
+}

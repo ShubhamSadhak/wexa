@@ -1,0 +1,7 @@
+[
+ {"platform":"cognodb","vcpu":0.5,"ram_mb":256,"disk_gb":1,"tier_name":"free c0","region":"record actual region","driver_used":"neo4j"},
+ {"platform":"neo4j","vcpu":0.5,"ram_mb":256,"disk_gb":1,"tier_name":"AuraDB Free","region":"record actual region","driver_used":"neo4j"},
+ {"platform":"memgraph","vcpu":0.5,"ram_mb":256,"disk_gb":1,"tier_name":"free","region":"record actual region","driver_used":"gqlalchemy/mgclient"},
+ {"platform":"arango","vcpu":0.5,"ram_mb":256,"disk_gb":1,"tier_name":"free trial/self-hosted cap","region":"record actual region","driver_used":"python-arango"},
+ {"platform":"tigergraph","vcpu":0.5,"ram_mb":256,"disk_gb":1,"tier_name":"free","region":"record actual region","driver_used":"pyTigerGraph"}
+]
